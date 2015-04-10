@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+
+# Permalinks
+permalink:        /blog/:title
+
+# Setup
+title:            Liam Darmody
+tagline:          'Web developer & entrepreneur'
+description:      'A savvy entrepreneur come web developer.'
+url:              http://www.liamdarmody.com
+
+author:
+  name:           'Liam Darmody'
+  url:            https://twitter.com/liamdarmody
+
+paginate:         5
+paginate_path:    "/blog/page:num/"
