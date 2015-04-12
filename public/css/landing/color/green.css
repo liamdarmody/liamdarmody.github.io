@@ -1,0 +1,133 @@
+/*
+==================================================
+==================================================
+
+GREEN SKIN
+
+==================================================
+==================================================
+*/
+
+a{
+	color:#9BC638;
+}
+
+::selection {
+	background:#9BC638;
+}
+
+::-moz-selection{
+	background:#9BC638;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.form-control:focus{
+    border: 2px solid #9BC638;
+}
+
+.btn-default:hover,.btn-default:active{
+	border-color:#9BC638 !important;
+	color:#9BC638;
+}
+
+.btn-primary:hover,.btn-primary:active,.btn-primary:focus{
+	color:#9BC638;
+}
+
+.navbar {
+    background-color: #9BC638;
+}
+
+.navbar-custom .nav li a {
+    border-top: 3px solid #9BC638;
+}
+
+.navbar-custom .nav li.active a {
+    border-top: 3px solid #FFF;
+}
+
+.section-heading h2 {
+    color: #9BC638;
+}
+
+.progress-bar {
+    background:#9BC638;
+}
+
+.facts-detail span {
+    color:#9BC638;
+}
+
+.service-box-icon {
+    background:#9BC638;
+}
+
+.portfolio-filters li {
+    border: 2px solid #9BC638;
+}
+
+.portfolio-filters li:hover{
+    background-color: #9BC638;
+    border-color:#9BC638;
+}
+
+.portfolio-filters li.active{
+    background-color:#9BC638;
+    border-color:#9BC638;
+}
+
+.image-overlay{
+    background: rgba(155,198,56,.6);
+}
+
+.cv-timeline-main:before {
+    background:#9BC638;
+}
+
+.cv-timeline-main > li .time-icon {
+    color: #9BC638;
+}
+
+.cv-timeline-main h4 {
+    color: #9BC638;
+}
+
+
+#testimonials .owl-controls .owl-page.active span {
+    background: #9BC638;
+}
+
+.contact-address i {
+    border: 1px solid #9BC638;
+    color: #9BC638;
+}
+
+.scrollup {
+	background: rgba(155,198,56,.9);
+}
+
+.scrollup:hover{
+	background: rgba(155,198,56,.6);
+}
+
+footer {
+    background:#9BC638;
+}
+
+footer ul.footer-social li a:hover {
+    color: #9BC638;
+}

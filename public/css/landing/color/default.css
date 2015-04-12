@@ -1,0 +1,129 @@
+/*
+==================================================
+==================================================
+
+ DEFAULT SKIN
+
+==================================================
+==================================================
+*/
+
+
+a{
+	color:#E4545B;
+}
+
+::selection {
+	background:#E4545B;
+}
+
+::-moz-selection{
+	background:#E4545B;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.form-control:focus{
+    border: 2px solid #E4545B;
+}
+
+.btn-default:hover,.btn-default:active{
+	border-color:#E4545B !important;
+	color:#E4545B;
+}
+
+.btn-primary:hover,.btn-primary:active,.btn-primary:focus{
+	color:#E4545B;
+}
+
+.navbar {
+    background-color: #E4545B;
+}
+
+.navbar-custom .nav li a {
+    border-top: 3px solid #E4545B;
+}
+
+.section-heading h2 {
+    color: #E4545B;
+}
+
+.progress-bar {
+    background:#E4545B;
+}
+
+.facts-detail span {
+    color:#E4545B;
+}
+
+.service-box-icon {
+    background:#E4545B;
+}
+
+.portfolio-filters li {
+    border: 2px solid #E4545B;
+}
+
+.portfolio-filters li:hover{
+    background-color: #E4545B;
+    border-color:#E4545B;
+}
+
+.portfolio-filters li.active{
+    background-color:#E4545B;
+    border-color:#E4545B;
+}
+
+.image-overlay{
+    background: rgba(228,84,91,.6);
+}
+
+.cv-timeline-main:before {
+    background:#E4545B;
+}
+
+.cv-timeline-main > li .time-icon {
+    color: #E4545B;
+}
+
+.cv-timeline-main h4 {
+    color: #E4545B;
+}
+
+#testimonials .owl-controls .owl-page.active span {
+    background: #E4545B;
+}
+
+.contact-address i {
+    border: 1px solid #E4545B;
+    color: #E4545B;
+}
+
+.scrollup {
+	background:rgba(228,84,91,.9);
+}
+
+.scrollup:hover{
+	background:rgba(228,84,91,.6);
+}
+
+footer {
+    background:#E4545B;
+}
+
+footer ul.footer-social li a:hover {
+    color: #E4545B;
+}
