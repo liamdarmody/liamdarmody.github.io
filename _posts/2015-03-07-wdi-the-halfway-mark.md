@@ -13,13 +13,13 @@ We’ve just reached the halfway mark. Over the past three weeks, we have learnt
 
 _**Week 4: Rails MVC**_
 
-*   Scaffold
-*   Generators
-*   Routes, Controllers and Views
-*   ActiveRecord Associations
-*   Form helpers
-*   Partials
-*   Project brainstorming (individual project)
+* Scaffold
+* Generators
+* Routes, Controllers and Views
+* ActiveRecord Associations
+* Form helpers
+* Partials
+* Project brainstorming (individual project)
 
 Moving from Sinatra to Rails was a real eye opener. Sinatra is great for small projects. I deployed the following (simple) applications using the Sinatra framework:
 
