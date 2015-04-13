@@ -2,22 +2,24 @@
 layout: post
 title: 'WDI: The Third Quarter'
 date: 2015-03-07 13:15:32.000000000 +11:00
-categories: wdi learning
+categories:
+- Learning
+- WDI
 ---
 
-_**Previous post:** [WDI: The Halfway Mark](http://www.liamdarmody.com/blog/wdi-the-halfway-mark/ "WDI: The Halfway Mark")_
+_**Previous post:** [WDI: The Halfway Mark](/blog/wdi-the-halfway-mark/ "WDI: The Halfway Mark")_
 
 We’ve just hit the 3/4 mark. We've been focused on JavaScript Frameworks the past few weeks. Here's what we covered.
 
 _**Week 7: JavaScript Frameworks**_
 
-*   Comprehensive JavaScript Lab
-*   jQuery
-*   Advanced DOM manipulation / traversal
-*   Events / Animation
-*   Plugins
-*   AJAX
-*   Project Management & Project Planning
+* Comprehensive JavaScript Lab
+* jQuery
+* Advanced DOM manipulation / traversal
+* Events / Animation
+* Plugins
+* AJAX
+* Project Management & Project Planning
 
 In preparation for our upcoming project, we covered a whole lot more JavaScript. We learnt how to traverse and manipulate the [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction "Document Object Model (DOM): Introduction") with jQuery and AJAX, and plenty more. At the end of the week, we jumped into our groups and got cracking on Project Two. My group set out to build a Leap Motion Music Visualiser. We’ll be coding a lot of JavaScript over the coming week.
 
@@ -51,6 +53,6 @@ As expected, we found the project incredibly challenging. The finished product l
 
 Unfortunately we ran out of time and were unable to get the reservation system working as it should. Currently, the system allows seats to be booked multiple times. It's like it's been built for an American airline that consistently overbooks their flights. At this stage of the game, Burning Airlines can offer customers two options - to share their seat with a fellow passenger or wait for the next flight with a token voucher for the inconvenience. While we didn't get it finished, we definitely gave it a good shot. Good work [Tom](https://github.com/tomvalorsa "Tom Valorsa") and [Julia](https://github.com/julia- "Julia Ryan")!
 
-Next week, we move into the final quarter - everything from performance and optimisation to computer science basics & our final project!
+[Next week](/blog/wdi-the-final-weeks/ "WDI: The Final Weeks"), we move into the final quarter - everything from performance and optimisation to computer science basics & our final project!
 
 ![Zensations - Visualiser](/public/images/blog/zensations-visualiser.png)
